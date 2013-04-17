@@ -1,9 +1,0 @@
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\bin\Debug\DonPavlik.WikiRepository.dll
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\bin\Debug\DonPavlik.WikiRepository.pdb
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\obj\Debug\DonPavlik.WikiRepository.dll
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\obj\Debug\DonPavlik.WikiRepository.pdb
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\bin\Debug\DonPavlik.Domain.dll
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\bin\Debug\DonPavlik.Domain.pdb
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\obj\Debug\DonPavlik.WikiRepository.csprojResolveAssemblyReference.cache
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\obj\Debug\DonPavlik.WikiRepository.Properties.Resources.resources
-C:\Projects\DonPavlik.WikiRepository\DonPavlik.WikiRepository\obj\Debug\DonPavlik.WikiRepository.csproj.GenerateResource.Cache
